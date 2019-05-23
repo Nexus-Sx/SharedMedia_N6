@@ -23,13 +23,21 @@ LSM:Register("font", "|cFF8C1616<N6>|r |cFFFFFF00Roboto Black|r", [[Interface\Ad
 --   SOUND
 -- -----
 
-LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Bait|r", [[Interface\Addons\SharedMedia_N6\sound\Bait.ogg]]) 
-LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Cancel|r", [[Interface\Addons\SharedMedia_N6\sound\Cancel.ogg]]) 
-LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Left|r", [[Interface\Addons\SharedMedia_N6\sound\Left.ogg]]) 
-LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Move|r", [[Interface\Addons\SharedMedia_N6\sound\Move.ogg]]) 
-LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Right|r", [[Interface\Addons\SharedMedia_N6\sound\Right.ogg]]) 
-LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Spread|r", [[Interface\Addons\SharedMedia_N6\sound\Spread.ogg]]) 
-LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Stack|r", [[Interface\Addons\SharedMedia_N6\sound\Stack.ogg]]) 
+LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Bait|r", [[Interface\Addons\SharedMedia_N6\sound\Bait.ogg]])
+LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Cancel|r", [[Interface\Addons\SharedMedia_N6\sound\Cancel.ogg]])
+LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Left|r", [[Interface\Addons\SharedMedia_N6\sound\Left.ogg]])
+LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Move|r", [[Interface\Addons\SharedMedia_N6\sound\Move.ogg]])
+LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Right|r", [[Interface\Addons\SharedMedia_N6\sound\Right.ogg]])
+LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Spread|r", [[Interface\Addons\SharedMedia_N6\sound\Spread.ogg]])
+LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Stack|r", [[Interface\Addons\SharedMedia_N6\sound\Stack.ogg]])
+LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Move to Circle|r", [[Interface\Addons\SharedMedia_N6\sound\Move to Circle.ogg]])
+LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Move to Diamond|r", [[Interface\Addons\SharedMedia_N6\sound\Move to Diamond.ogg]])
+LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Move to Moon|r", [[Interface\Addons\SharedMedia_N6\sound\Move to Moon.ogg]])
+LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Move to Skull|r", [[Interface\Addons\SharedMedia_N6\sound\Move to Skull.ogg]])
+LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Move to Square|r", [[Interface\Addons\SharedMedia_N6\sound\Move to Square.ogg]])
+LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Move to Star|r", [[Interface\Addons\SharedMedia_N6\sound\Move to Star.ogg]])
+LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Move to Triangle|r", [[Interface\Addons\SharedMedia_N6\sound\Move to Triangle.ogg]])
+LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Move to X|r", [[Interface\Addons\SharedMedia_N6\sound\Move to X.ogg]])
 
 -- -----
 --   STATUSBAR
