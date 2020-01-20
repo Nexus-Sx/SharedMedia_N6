@@ -25,6 +25,8 @@ LSM:Register("font", "|cFF8C1616<N6>|r |cFFFFFF00Roboto Black|r", [[Interface\Ad
 
 LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Bait|r", [[Interface\Addons\SharedMedia_N6\sound\Bait.ogg]])
 LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Cancel|r", [[Interface\Addons\SharedMedia_N6\sound\Cancel.ogg]])
+LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Cruise Scream Long|r", [[Interface\Addons\SharedMedia_N6\sound\Cruise Scream Long.ogg]])
+LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Cruise Scream Short|r", [[Interface\Addons\SharedMedia_N6\sound\Cruise Scream Short.ogg]])
 LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Left|r", [[Interface\Addons\SharedMedia_N6\sound\Left.ogg]])
 LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Move|r", [[Interface\Addons\SharedMedia_N6\sound\Move.ogg]])
 LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Right|r", [[Interface\Addons\SharedMedia_N6\sound\Right.ogg]])
