@@ -1,5 +1,5 @@
 ## Interface: 80300
-## Version: 1.0.4-release
+## Version: 1.0.5-release
 ## Title: |cFF8C1616<Nexus Sx>|r SharedMedia
 ## Notes: Custom media library created for |cFF8C1616<Nexus Sx>|r on |cFFFFFF00Tichondrius-US
 
