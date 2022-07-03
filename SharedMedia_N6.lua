@@ -41,6 +41,7 @@ LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Move to Square|r", [[Interface
 LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Move to Star|r", [[Interface\Addons\SharedMedia_N6\sound\Move to Star.ogg]])
 LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Move to Triangle|r", [[Interface\Addons\SharedMedia_N6\sound\Move to Triangle.ogg]])
 LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Move to X|r", [[Interface\Addons\SharedMedia_N6\sound\Move to X.ogg]])
+LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Wasted|r", [[Interface\Addons\SharedMedia_N6\sound\Wasted.ogg]])
 LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Whistle|r", [[Interface\Addons\SharedMedia_N6\sound\Whistle.ogg]])
 
 -- -----
