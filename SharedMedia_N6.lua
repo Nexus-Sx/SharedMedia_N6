@@ -43,6 +43,7 @@ LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Move to Triangle|r", [[Interfa
 LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Move to X|r", [[Interface\Addons\SharedMedia_N6\sound\Move to X.ogg]])
 LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Wasted|r", [[Interface\Addons\SharedMedia_N6\sound\Wasted.ogg]])
 LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Whistle|r", [[Interface\Addons\SharedMedia_N6\sound\Whistle.ogg]])
+LSM:Register("sound", "|cFF8C1616<N6>|r |cFFFFFF00Mario Star Power|r", [[Interface\Addons\SharedMedia_N6\sound\Mario Star.ogg]])
 
 -- -----
 --   STATUSBAR
